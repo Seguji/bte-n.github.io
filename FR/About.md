@@ -1,37 +1,38 @@
-# About Us
+# À propos
+* [Qui sommes nous ?](#qui-sommes-nous-)
+* [Organisation](#organisation)
+* [Comment contribuer](#comment-contribuer)
+* [Membres](#membres)
 
-* [Who are we?](#who-are-we)
-* [Philosophy](#philosophy)
-* [Contribute](#contribute)
-* [Members](#members)
+## Qui sommes nous ?
 
-## Who are we?
+L'équipe *Normalisation Project* (projet de normalisation) est un groupe de personnes consacré à établir des normes pour le projet *Build The Earth* (construire la Terre) démarré début 2020.
+Son but est de mettre en place des aides pour créer des objets répétitifs et aider les personnes se demandant "et comment je construit ça ?" à propos des voitures, rails, poubelles, etc.
 
-The *Normalisation Project* team is a growing group of people dedicated to creating a set of guidelines when working in the Build The Earth project, started in early 2020.    
-It aims to provide resources for building repeating structures, as well as help people wondering "so, how do I build this?" when looking at a street, railway, or other infrastructure.
 
-## Philosophy
+## Organisation
 
-The *BTEN* wiki is based on total collaboration, where people from all areas and knowledge fields contribute depending on their abilities and interests.    
-Everyone can work on any document if they choose to, and the project is mostly based on trust basis, although we have a team overseeing the process to ensure things are steering in the right direction.    
-It is crucial to communicate frequently and to ensure that decisions are made in everyone's best interest, which sometimes require a vote.
+Le wiki *BTEN* est basé sur la collaboration dans laquelle les personnes des quatre coins du monde contribuent en fonction de leurs compétences et centres d'intérêts.
+Tout le monde peut travailler sur n'importe quel document s'il le veut et le projet est avant tout basé sur la confiance, bien qu'on ait une équipe de modérateurs vérifiant ce qui est fait pour s'assurer que tout va dans la bone direction.
+Il est crucial de communiquer fréquemment and de s'assurer que les décisions sont prises en juste conscience de chacun, ce qui nécessite parfois un vote.
 
-## Contribute
 
-As we are evergrowing, we are very open to accepting new members into the team behind the *Normalisation Project*.    
-Be it because you like to contribute using your own experience in worldbuilding, or have time on your hands you want to put to good use to add and update norms, or because you are interested in translating and updating the website into languages you can speak.
+## Comment contribuer
 
-If you are interested, you can join the [Discord Server](https://discord.gg/eXzrZSx) and communicate with the members to establish your interests, and to get you ready for whichever way you are planning on contributing.    
-The server is also a platform for discussion and support.
+Puisque nous sommes une communauté grandissante, nous sommes ouverts à accepter de nouveaux membres dans l'équipe du projet de normalisation. Rejoignez nous si vous avez envie d'aider en aportant votre propre expérience en construction, ou votre temps si vous voulez ajouter et mettre à jour des normes ou parce que vous souhaitez aider à traduire et à mettre à jour le site dans les langues que vous maitrisez.
 
-## Members
+Si vous êtes intéressé(e), vous pouvez rejoindre le [Serveur Discord](https://discord.gg/eXzrZSx) et discuter avec les autres membres pour
+faire part de vos remarques et également contribuer au projet. Ce serveur est également un moyen de discussion et de soutien.
 
-The Build The Earth: Normalisation Project Team currently has these members:
+
+## Membres
+
+Les membres de l'équipe du *projet de normalisation* de *Build The Earth* sont :
 
 {% include Members.md %}
 
-*This list is updated every now and then by us. If your name is missing, let us know and we will update the list.*
+*Nous mettons cette liste à jour régulièrement, faites nous savoir si votre nom a été oublié et nous le rajouterons*
 
 ***
 
-Join our [Discord Server](https://discord.gg/eXzrZSx)
+Rejoignez le [Serveur Discord](https://discord.gg/eXzrZSx)
